@@ -1,0 +1,39 @@
+/* body{
+    background-color: brown;
+} */
+.container1{
+    width: 500px;
+    height: 650px;
+    background-color: aqua;
+    border-radius: 30px;
+}
+.box{
+    width: 400px;
+    height: 80px;
+    margin-left: 50px;
+    margin-top: 10px;
+}
+.box2{
+    margin-top: -20px;
+}
+h1{
+    text-align: center;
+    color: brown;
+}
+h3{
+    color: rgb(192, 17, 17);
+    text-align: center;
+}
+b{
+    color: brown;
+    margin-left: 80px;
+}
+.box1{
+    width: 400px;
+    height: 80px;
+    margin-left: 55px;
+    margin-top: -10px;
+}
+label{
+    font-size: 15px;
+}
